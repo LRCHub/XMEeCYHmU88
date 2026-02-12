@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "タイミング ～Timing～",
+  "base_artist": "Klang Ruler",
+  "createdAt": "2026-02-12T06:51:17.614043Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "タイミング ～Timing～ - TIMING",
+      "artist": "Klang Ruler",
+      "has_synced": true,
+      "path": "select/01_タイミング_~Timing~_-_TIMING_Klang_Ruler.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "タイミング ～Timing～",
+      "artist": "Klang Ruler",
+      "has_synced": true,
+      "path": "select/02_タイミング_~Timing~_Klang_Ruler.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タイミング ~Timing~",
+      "artist": "Klang Ruler",
+      "has_synced": false,
+      "path": "select/pl_01_タイミング_~Timing~_Klang_Ruler.txt"
+    }
+  ]
+}
